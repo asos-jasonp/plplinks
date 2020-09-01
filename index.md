@@ -1,14 +1,18 @@
 ## New Relic
 ```markdown
-[Link](url)
+[AKS Dashboard](https://insights.newrelic.com/apps/accounts/711799/web-product-listing-pages/dashboards/1167382?duration=3600000)
 ```
+```markdown
+[Alerts] (https://one.newrelic.com/launcher/nrai.launcher?pane=eyJuZXJkbGV0SWQiOiJhbGVydGluZy11aS1jbGFzc2ljLnBvbGljaWVzIiwibmF2IjoiUG9saWNpZXMiLCJwb2xpY3lJZCI6IjE0OTYxMyJ9&sidebars[0]=eyJuZXJkbGV0SWQiOiJucmFpLm5hdmlnYXRpb24tYmFyIiwibmF2IjoiUG9saWNpZXMifQ==&platform[accountId]=711799)
+```
+
 ## Grafana
 
 ```markdown
-[Link](url)
+[Cluster Overview](https://grafana.asoscloud.com/d/DUOTAFIWk/cluster-overview-production?orgId=2&refresh=1m)
 ```
 ```markdown
-[Link](url)
+[NamesSpaces Overview](https://grafana.asoscloud.com/d/9XBPfGpWz/namespaces-overview-production?orgId=2)
 ```
 ```markdown
 [Link](url)
